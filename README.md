@@ -33,7 +33,7 @@ Optional drawing of eye polygons for visualization.
 Serial code commented for testing without hardware.
 
 More modular with reusable functions and real-time status display.
-![{1CD5441D-CF2B-44F2-825D-1D6C549C6920}](https://github.com/user-attachments/assets/7ab3b400-10ea-47a1-90e5-faf2b50426c0)
+
 
 
 🔹 Driver_Sleep_Detection_System_Arduino_Proteus.ino
