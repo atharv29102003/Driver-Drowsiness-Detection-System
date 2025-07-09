@@ -1,6 +1,8 @@
 # Driver-Drowsiness-Detection-System
 This project is a real-time Driver Drowsiness Detection System developed using Python, OpenCV, Dlib, and optionally integrated with Arduino for alert mechanisms. It monitors eye blinks and behavior to detect whether a driver is sleeping, drowsy, or active, and can trigger physical alerts like a buzzer via Arduino. 
 This project implements a real-time driver monitoring system that uses facial landmark detection to determine levels of drowsiness based on eye blinks, yawning patterns, and head position.
+![{89A00C3D-41C2-4267-ADF8-D09F6D275F7F}](https://github.com/user-attachments/assets/9acc2ebb-99de-4d83-903c-0e9744aa74b3)
+
 
 Two versions of the detection algorithm are provided:
 
