@@ -13,6 +13,14 @@ Classifies states into: Active, Drowsy, and Sleeping.
 
 Runs continuous real-time analysis from a webcam.
 
+Algorithm 👨‍🔬
+Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye.
+
+It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
+
+![{4D8DFB3C-B715-4C24-B023-F23A2E2E64F6}](https://github.com/user-attachments/assets/321a2303-8b4c-470c-b1ef-27c4aceb3079)
+
+
 🔹 new_Code.py
 An improved version with:
 
